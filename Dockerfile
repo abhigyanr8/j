@@ -1,3 +1,3 @@
 FROM openjdk:11
-COPY target/OpenKart-0.0.1-SNAPSHOT.war OpenKart-0.0.1-SNAPSHOT.war
-ENTRYPOINT ["java", "-jar", "/OpenKart-0.0.1-SNAPSHOT.war"]
+COPY target/cit-0.0.1-SNAPSHOT cit-0.0.1-SNAPSHOT
+ENTRYPOINT ["java", "-jar", "/cit-0.0.1-SNAPSHOT"]
