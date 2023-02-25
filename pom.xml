@@ -20,7 +20,7 @@
 
  <groupId>com.example</groupId>
 
- <artifactId>TCAH2</artifactId>
+ <artifactId>cit</artifactId>
  <packaging>war</packaging>
 
  <version>0.0.1-SNAPSHOT</version>
